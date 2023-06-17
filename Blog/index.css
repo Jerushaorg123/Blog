@@ -1,0 +1,473 @@
+.home-child {
+  position: absolute;
+  top: 137px;
+  left: 59px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1323px;
+  height: 588px;
+}
+.home-inner,
+.home-item {
+  position: absolute;
+  top: 293px;
+  left: 93px;
+  width: 105px;
+  height: 105px;
+}
+.home-inner {
+  top: 231px;
+  left: 1045px;
+  width: 291px;
+  height: 291px;
+}
+.forent {
+  position: absolute;
+  top: 27px;
+  left: 59px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.no-worries-about,
+.online-payments-only,
+.rent-out-anything {
+  position: absolute;
+  top: 322px;
+  left: 224px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 846px;
+  height: 53px;
+}
+.no-worries-about,
+.online-payments-only {
+  top: 456px;
+}
+.online-payments-only {
+  top: 590px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  width: 260px;
+  height: 107px;
+}
+.know-more {
+  position: absolute;
+  top: 27px;
+  left: 36px;
+  font-weight: 600;
+  display: inline-block;
+  width: 205px;
+  height: 53px;
+}
+.vector-parent {
+  position: absolute;
+  top: 566px;
+  left: 1070px;
+  width: 260px;
+  height: 107px;
+  font-size: 35px;
+  color: var(--color-gray-100);
+}
+.about-us,
+.our-categories {
+  position: absolute;
+  left: 105px;
+  font-weight: 600;
+  color: var(--color-white);
+  display: inline-block;
+}
+.about-us {
+  top: 178px;
+  font-size: var(--font-size-29xl);
+  width: 335px;
+  height: 53px;
+}
+.our-categories {
+  top: 813px;
+  font-size: 45px;
+  width: 453px;
+  height: 76px;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-100);
+  width: 112px;
+  height: 53px;
+}
+.login {
+  position: absolute;
+  top: 12px;
+  left: 26px;
+  font-weight: 600;
+  display: inline-block;
+  width: 86px;
+  height: 32px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 33px;
+  left: 1237px;
+  width: 112px;
+  height: 53px;
+  display: none;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.rent {
+  position: absolute;
+  top: 10px;
+  left: 30px;
+  font-weight: 600;
+  display: inline-block;
+  width: 52px;
+  height: 32px;
+}
+.rectangle-div,
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 322px;
+  width: 112px;
+  height: 53px;
+}
+.rectangle-div {
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-100);
+  width: 134px;
+}
+.login1 {
+  position: absolute;
+  top: 10px;
+  left: 37px;
+  font-weight: 600;
+  display: inline-block;
+  width: 60px;
+  height: 32px;
+}
+.group-parent,
+.rectangle-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 134px;
+  height: 53px;
+}
+.group-parent {
+  top: 33px;
+  left: 958px;
+  width: 434px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.group-child1,
+.group-div {
+  position: absolute;
+  width: 597px;
+  height: 53px;
+}
+.group-child1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-100);
+}
+.group-div {
+  top: 33px;
+  left: 319px;
+}
+.search {
+  position: absolute;
+  top: 47px;
+  left: 347px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  font-family: var(--font-roboto);
+  color: rgba(255, 255, 255, 0.2);
+}
+.group-icon,
+.home-child1 {
+  position: absolute;
+  top: 561px;
+  left: 93px;
+  width: 105px;
+  height: 105px;
+}
+.home-child1 {
+  top: 33px;
+  left: 1125px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-100);
+  width: 131px;
+  height: 53px;
+}
+.explore {
+  position: absolute;
+  top: 43px;
+  left: 1149px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  color: var(--color-white);
+  display: inline-block;
+  width: 82px;
+  height: 32px;
+}
+.home-child2 {
+  position: absolute;
+  top: 965px;
+  left: 119px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-200);
+  border: 3px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 346px;
+  height: 391px;
+}
+.electronics {
+  position: absolute;
+  top: 1001px;
+  left: 146px;
+  font-size: var(--font-size-11xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 269px;
+  height: 53px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  width: 169.44px;
+  height: 58px;
+}
+.know-more1 {
+  position: absolute;
+  top: 18px;
+  left: 38.85px;
+  font-weight: 600;
+  display: inline-block;
+  width: 98.21px;
+  height: 29px;
+}
+.vector-group {
+  position: absolute;
+  top: 1278px;
+  left: 277.65px;
+  width: 169.44px;
+  height: 58px;
+  color: var(--color-gray-100);
+}
+.lorem-ipsum-dolor {
+  position: absolute;
+  top: 1054px;
+  left: 146px;
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 283px;
+  height: 183px;
+}
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-200);
+  border: 3px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 346.44px;
+  height: 391px;
+}
+.clothes-apparel,
+.know-more2 {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.clothes-apparel {
+  top: 36px;
+  left: 26.98px;
+  font-size: var(--font-size-11xl);
+  width: 301.11px;
+  height: 53px;
+}
+.know-more2 {
+  top: 18px;
+  left: 35.62px;
+  width: 112.33px;
+  height: 28.95px;
+}
+.vector-container {
+  position: absolute;
+  top: 313px;
+  left: 158.65px;
+  width: 169.44px;
+  height: 58px;
+  color: var(--color-gray-100);
+}
+.lorem-ipsum-dolor1 {
+  position: absolute;
+  top: 89px;
+  left: 26.98px;
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 282.77px;
+  height: 183px;
+}
+.rectangle-parent1,
+.rectangle-parent2 {
+  position: absolute;
+  top: 965px;
+  left: 532.36px;
+  width: 346.44px;
+  height: 391px;
+}
+.rectangle-parent2 {
+  top: 1418px;
+  left: 532px;
+}
+.gaming,
+.know-more4 {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.gaming {
+  top: 36px;
+  left: 26.98px;
+  font-size: var(--font-size-11xl);
+  width: 268.74px;
+  height: 53px;
+}
+.know-more4 {
+  top: 18px;
+  left: 39.93px;
+  width: 112.33px;
+  height: 28.95px;
+}
+.rectangle-parent3,
+.rectangle-parent4 {
+  position: absolute;
+  top: 965px;
+  left: 943.56px;
+  width: 346.44px;
+  height: 391px;
+}
+.rectangle-parent4 {
+  top: 1418px;
+  left: 944px;
+}
+.more {
+  font-size: var(--font-size-lg);
+}
+.know-more6 {
+  position: absolute;
+  top: 18px;
+  left: 38.85px;
+  display: inline-block;
+  width: 112.33px;
+  height: 28.95px;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 1418px;
+  left: 126.55px;
+  width: 346.44px;
+  height: 391px;
+}
+.group-child12,
+.home-child3 {
+  position: absolute;
+  top: 427px;
+  left: 93px;
+  width: 105px;
+  height: 105px;
+}
+.group-child12 {
+  top: 0;
+  left: 0;
+  border-radius: 30px;
+  background-color: var(--color-gray-100);
+  width: 1346px;
+  height: 283px;
+}
+.lorem-ipsum-dolor6 {
+  position: absolute;
+  top: 100px;
+  left: 43px;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  width: 513px;
+  height: 183px;
+}
+.loginsignup {
+  margin: 0;
+}
+.home-search-explore-container,
+.instagram-facebook-liinkedin-container {
+  position: absolute;
+  top: 93px;
+  left: 668px;
+  line-height: 35px;
+  font-weight: 600;
+  display: inline-block;
+  width: 513px;
+  height: 183px;
+}
+.instagram-facebook-liinkedin-container {
+  top: 84px;
+  left: 1030px;
+}
+.forent1,
+.site-map,
+.socials {
+  position: absolute;
+  top: 25px;
+  left: 43px;
+  font-size: var(--font-size-29xl);
+  display: inline-block;
+  color: var(--color-white);
+  width: 335px;
+  height: 53px;
+}
+.site-map,
+.socials {
+  top: 35px;
+  left: 668px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+}
+.socials {
+  top: 31px;
+  left: 1026px;
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 1885px;
+  left: 33px;
+  width: 1543px;
+  height: 283px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-300);
+}
+.home {
+  position: relative;
+  background-color: var(--color-gray-200);
+  width: 100%;
+  height: 2203px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-silver);
+  font-family: var(--font-poppins);
+}
